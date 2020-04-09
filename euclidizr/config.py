@@ -16,11 +16,12 @@ truth_stampsize = 256 # pixels
 
 # HST PSF
 
-hst_psf_filepath = ""
-#hst_psf_pixelscale = # in arcsec
+hst_psf_filepath = "/vol/aibn146/data1/dianasco/workdir_euclidizr/tt3_64_64_1.5.fits"
+hst_psf_pixelscale = 0.01 # in arcsec
 
 
 # Euclid PSF
 
-euclid_psf_filepath = ""
-#euclid_psf_pixelscale = # in arcsec
+#euclid_psf_filepath = "/vol/aibn146/data1/dianasco/workdir_euclidizr/psf.fits"
+euclid_psf_filepath = "/vol/aibn146/data1/dianasco/workdir_euclidizr/sed_true_26892756.os.fits"
+euclid_psf_pixelscale = 0.02 # in arcsec
